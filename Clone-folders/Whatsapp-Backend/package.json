@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-backend",
+  "version": "1.0.0",
+  "description": "This is the backend of my whatsapp mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Irtaza",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "nodemon": "^2.0.15",
+    "pusher": "^5.0.0"
+  }
+}
