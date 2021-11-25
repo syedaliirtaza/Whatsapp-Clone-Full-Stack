@@ -5,7 +5,7 @@ This project is made using MERN technologies
 The Front End of this application is build using ReactJS and deployed on Firebase. It also has authentication funconalities i.e Sign In with Google
 
 ### You can access the appication using this URL:
-https://whatsapp-mern-f9229.web.app/
+https://whatsapp-full-mern-stack.web.app/
 
 ## Back End
 The Back End of this application is build using ExpressJS and NodeJS. MongoDB Database is also connected with the application in order to store the messages
